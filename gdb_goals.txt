@@ -1,0 +1,7 @@
+Mahoney mentions gdb in the notes, this is usually where I work that into the class since they are now working with pointers.
+
+Some things I request you cover about gdb
+
+    teach the students how to turn on core dumping by default (ulimit -c unlimited in .bashrc I think)
+    teach the students how to compile with debug information and do a stack trace with a core dump
+    teach the students how to step through a program, set breakpoints, etc (as this is necessary if the stack get wacked)
